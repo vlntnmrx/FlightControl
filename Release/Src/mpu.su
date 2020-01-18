@@ -1,0 +1,12 @@
+mpu.c:17:6:mpu_init_std	40	static
+mpu.c:47:6:mpu_init_dma	16	static
+mpu.c:66:6:mpu_init_spi	24	static
+mpu.c:83:6:mpu_calibrate	96	static
+mpu.c:149:6:mpu_get_acc	40	static
+mpu.c:161:6:mpu_get_gyro	40	static
+mpu.c:173:9:mpu_get_temp	32	static
+mpu.c:180:6:mpu_get_acc_dma	16	static
+mpu.c:184:6:mpu_get_gyro_dma	16	static
+mpu.c:189:6:mpu_get_all_dma	16	static
+mpu.c:199:6:mpu_udate_data	24	static
+mpu.c:215:6:mpu_cs	0	static

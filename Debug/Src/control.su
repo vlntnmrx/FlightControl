@@ -1,0 +1,9 @@
+control.c:22:9:pitch	16	static
+control.c:40:9:roll	16	static
+control.c:61:9:yaw	16	static
+control.c:80:9:throttle	16	static
+control.c:96:6:center_off	4	static
+control.c:104:6:pid_init	4	static
+control.c:123:6:pid_pitch	72	static
+control.c:144:6:pid_roll	4	static
+control.c:147:6:pid_yaw	72	static

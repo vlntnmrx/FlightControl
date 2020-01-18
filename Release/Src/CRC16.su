@@ -1,0 +1,2 @@
+CRC16.c:84:8:CRC16_Calc	4	static
+CRC16.c:139:6:CRC16_Check	4	static

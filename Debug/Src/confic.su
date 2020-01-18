@@ -1,0 +1,6 @@
+confic.c:12:6:led2_t	8	static
+confic.c:16:6:led3_t	8	static
+confic.c:20:6:leds_reset	8	static
+confic.c:25:6:leds_set	8	static
+confic.c:30:6:blink	24	static
+confic.c:76:6:print_uart	24	static

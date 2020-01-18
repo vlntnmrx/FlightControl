@@ -1,0 +1,13 @@
+quaternion.c:10:13:quat_multiply	40	static
+quaternion.c:24:13:quat_add	24	static
+quaternion.c:32:13:vec2quat	16	static
+quaternion.c:40:13:quat_qpq	40	static
+quaternion.c:49:13:quat_rotate	32	static
+quaternion.c:60:9:vec_rotate	72	static
+quaternion.c:71:9:quat2vec	16	static
+quaternion.c:77:7:quat_length	24	static
+quaternion.c:84:7:vec_length	24	static
+quaternion.c:90:6:quat_norm	24	static
+quaternion.c:96:6:quat_copy	16	static
+quaternion.c:102:6:quat_conj	16	static
+quaternion.c:108:6:quat_scale	16	static

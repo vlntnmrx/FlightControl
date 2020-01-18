@@ -1,0 +1,4 @@
+SLIP.c:73:6:SLIP_Init	0	static
+SLIP.c:105:5:SLIP_EncodeData	28	static
+SLIP.c:150:6:SLIP_SetRxBuffer	0	static
+SLIP.c:180:6:SLIP_DecodeData	24	static

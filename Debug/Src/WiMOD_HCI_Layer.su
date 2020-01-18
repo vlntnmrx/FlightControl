@@ -1,0 +1,6 @@
+WiMOD_HCI_Layer.c:56:6:SerialDevice_ReadData	24	static
+WiMOD_HCI_Layer.c:65:6:SerialDevice_SendData	24	static
+WiMOD_HCI_Layer.c:81:6:WiMOD_HCI_Init	16	static
+WiMOD_HCI_Layer.c:104:5:WiMOD_HCI_SendMessage	24	static
+WiMOD_HCI_Layer.c:149:6:WiMOD_HCI_Process	32	static
+WiMOD_HCI_Layer.c:167:15:WiMOD_HCI_ProcessRxMessage	16	static
